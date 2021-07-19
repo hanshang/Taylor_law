@@ -1,5 +1,6 @@
 # Taylor's law
 Temporal and spatial Taylor's law: Application to Japanese subnational mortality rates
+by Yang Yang, Han Lin Shang and Joel E. Cohen
 
 1. Preparation of mortality data
 2. Temporal Taylor's law
